@@ -27,7 +27,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 I'm a Data Analyst with over 8 years of experience across pharmaceutical, media, and ed-tech industries. I specialize in CRM and marketing analytics, forecasting, dashboarding, and A/B testing. Proficient in SQL, Python, Tableau, Power BI, and cloud platforms like AWS and GCP. Currently based in Berlin with full work authorization.
 
 📫 **Contact**: pujakumaripk083@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/puja-kumari-b69072175/) | [Tableau Public](https://public.tableau.com/app/profile/puja.kumari)
+🔗 [LinkedIn](https://www.linkedin.com/in/puja-kumari-b69072175/) | [Tableau Public](https://public.tableau.com/app/profile/puja.kumari2674/vizzes)
 
 ---
 
