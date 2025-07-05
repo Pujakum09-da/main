@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Users/pookie/main/src/IMG_6922_Original.jpg" width="180" style="border-radius:10%" alt="Puja Kumari"/>
+  <img src="src/IMG_6922_Original.jpg" width="180" style="border-radius:10%" alt="Puja Kumari"/>
 </p>
 
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Puja Kumari</h1>
@@ -56,7 +56,7 @@
 
  <img src="src/Cohort Analysis Dashboard.png" width="180" style="border-radius:%" alt="Puja Kumari"/>
 
-📈 **Channel Analytics Performance Dashboard (Tableau)**  
+📈 **Channel Performance Analytics Dashboard (Tableau)**  
 → Analyzed campaign performance across channels, enabling ROI-focused optimization.  
 [View Dashboard →](https://public.tableau.com/app/profile/puja.kumari2674/viz/Channelanalyticsperformance/Channelanalyticsperformance)
 
