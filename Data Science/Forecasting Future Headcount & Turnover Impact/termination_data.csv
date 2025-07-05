@@ -1,0 +1,27 @@
+employee_id,department,termination_date,reason,tenure_months
+1078,Marketing,2023-04-20,Voluntary - Better Opportunity,20.594544318366328
+1136,Finance,2023-04-18,Voluntary - Better Opportunity,23.625924542289134
+1028,Engineering,2023-05-08,Layoff,24.98947340958999
+1063,Sales,2023-05-27,Performance,42.921227806241
+1026,Engineering,2023-07-23,Voluntary - Better Opportunity,4.119128812021662
+1001,Engineering,2023-07-10,Voluntary - Personal,25.290172271851233
+1019,Engineering,2023-08-11,End of Contract,7.548253355843944
+1141,Operations,2023-08-08,Performance,26.55199819951953
+1081,Marketing,2023-09-21,Voluntary - Better Opportunity,3.7114054478983065
+1078,Marketing,2023-10-27,Voluntary - Personal,4.578884526649057
+1084,Marketing,2024-01-01,Voluntary - Personal,5.271845615570076
+1084,Marketing,2024-01-22,Voluntary - Better Opportunity,15.168181720356003
+1150,Operations,2024-01-23,Voluntary - Relocation,0.23556939113313005
+1143,Operations,2024-01-01,Voluntary - Better Opportunity,0.48402963403770394
+1054,Sales,2024-02-02,Voluntary - Better Opportunity,0.6268970199729857
+1064,Sales,2024-02-05,Voluntary - Better Opportunity,26.75679028941667
+1088,Marketing,2024-02-24,Voluntary - Better Opportunity,15.015531181621348
+1035,Engineering,2024-03-09,Voluntary - Better Opportunity,14.541039277325735
+1054,Sales,2024-03-22,Voluntary - Better Opportunity,41.44988751935727
+1035,Engineering,2024-04-19,Voluntary - Better Opportunity,8.87656062465339
+1117,HR,2024-04-26,Voluntary - Better Opportunity,5.475047436100582
+1008,Engineering,2024-05-08,Performance,12.315064079935235
+1088,Marketing,2024-05-19,Voluntary - Better Opportunity,16.058895835022355
+1022,Engineering,2024-06-05,Performance,34.05189578490503
+1086,Marketing,2024-06-16,Voluntary - Relocation,3.5847508569813002
+1083,Marketing,2024-06-14,Voluntary - Better Opportunity,23.636374222293448
