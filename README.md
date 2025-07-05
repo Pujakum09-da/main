@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/IMG_6922_Original.jpg" width="180" style="border-radius:10%" alt="Puja Kumari"/>
+  <img src="src/IMG_6922_Original.jpg" width="100%" style="border-radius:10px" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Puja Kumari</h1>
